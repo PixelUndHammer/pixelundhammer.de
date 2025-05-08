@@ -1,0 +1,10 @@
+[{
+    "title": "DIY NAS Gehäuse",
+    "description": "Selbstgebautes NAS mit 3D-gedrucktem Gehäuse, SATA-Backplanes und Mini-ATX-Board.",
+    "image": "/project-assets/diy-nas.png",
+    "tags": ["3D-Druck", "Elektronik", "Open Source"],
+    "github": "https://github.com/PixelUndHammer",
+    "makerworld": null,
+    "instagram": "https://instagram.com/pixelundhammer",
+    "wip": true
+}]
